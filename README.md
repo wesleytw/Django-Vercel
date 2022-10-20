@@ -1,3 +1,5 @@
+video: https://www.youtube.com/watch?v=zCUSJkL_CJg
+
 # Django on Vercel
 This is a simple project developed using Django framework and it contains the settings required for successfull deployment of Django projects on Vercel.
 ## Setup
